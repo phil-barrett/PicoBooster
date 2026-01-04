@@ -13,3 +13,4 @@ Features:
 * Optional 2.54mm pin header connectors for UART, I2C, SPI and WS2812 LEDs.
 * Run button support (allows firmware upload without unplugging USB).
 * Supports castellation mounting of RasPi Pico for slim profile.
+* Bidirectional Voltage Translation on all pins.
