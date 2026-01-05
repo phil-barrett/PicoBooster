@@ -1,6 +1,6 @@
 # PicoBooster
 5V booster for RasPi Pico.  Drives 5V peripherals but mainly aimed at WS2812 RGB LED strings. I really like the Pico from RasPi. Easy to program and I find the PIO feature very useful.
-
+![Booster Top](https://github.com/phil-barrett/PicoBooster/blob/main/Images/pico-booster-top.jpg)
 Features:
 * Supports WS2812 and WS2812B RGB LEDs.
 * Supports voltage translation for UART, I2C and SPI peripherals.
