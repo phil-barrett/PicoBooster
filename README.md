@@ -10,7 +10,8 @@
 * Flexible Power
   * External power input for large 5V loads.
   * Optional 100 uF capacitor to support longer WS2812 LED strings.
-  * Optional power from Pico/USB
+  * Optional power from Pico/USB.
+  * WS2812 current up to 2A.
 * Multiple connectors 
   * 4 pin JST XH (QWIIC) connector for I2C
   * 3 pin JST XH connector for WS2812 strings
