@@ -20,7 +20,7 @@
 # Questions/Musings
 Please feel free to comment on these in Discussions
 * Booster was designed with a very specific purpose in mind (drive 5V WS LEDs from 3.3V microcontroller). However, feature creep started immediately (hence UART, I2C, SPI, QWIIC).  Is there anything obvious I am missing?
-* For external power, I the provided screw terminal good enough or is a standard barrel jack a better idea?
+* For external power, is the provided screw terminal good enough or is a standard barrel jack a better idea?
 * I used a JST XH (2.50mm) connector. Many NEOPixel devices use smaller (JST SH 1.00 mm). Given that there does not seem to be standardization of the pin assignments, a new cable is likely to be needed.  The 2.50 mm ones are easier to work with.
 * Should I use horizontal JST connectors rather than vertical (as shown in the images).
 * Anything I need to do to support Python?
