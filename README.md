@@ -7,7 +7,8 @@ Features:
   * Voltage translation individually selectable for UART, I2C and SPI.
   * Voltage translation selectable between 3.3V and 5V.
   * Bidirectional Voltage Translation on all pins.
-* External power input for large 5V loads.
+* Flexible Power
+  * External power input for large 5V loads.
   * Optional 100 uF capacitor to support longer WS2812 LED strings.
   * Optional power from Pico/USB
 * Multiple connectors 
