@@ -23,4 +23,5 @@ Please feel free to comment on these in Discussions
 * For external power, is the provided screw terminal good enough or is a standard barrel jack a better idea?
 * I used a JST XH (2.50mm) connector. Many NEOPixel devices use smaller (JST SH 1.00 mm). Given that there does not seem to be standardization of the pin assignments, a new cable is likely to be needed.  The 2.50 mm ones are easier to work with.
 * Should I use horizontal JST connectors rather than vertical (as shown in the images).
+* Should I move the JST connectors to the left side and power connector to the right side to allow "axial" packaging. 
 * Anything I need to do to support Python?
