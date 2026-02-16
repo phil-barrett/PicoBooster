@@ -28,6 +28,6 @@ Please feel free to comment on these in Discussions
 * Anything I need to do to support Python?
 
 # Update
-Moved the JS connectors to the end to allow an "in-line" assembly. Sent the design off the JLCPCB and received boards a week later.  Design works.  Level shifters work.  QWIIC connector works. Pico surface mount (castelations) works. I learned a few lessons from this and will feed that into the V2.0 design. One takeway - want to be able to supply >5V to the WS2812 strings so need to redo that part. May make a mini version with only I2C (QWIIC), WS2812 header and power connector (2.1mm DC jacks?). Sorry for lousy photos.
+Moved the JST connectors to the end to allow an "in-line" assembly. Also upsized the IIC level shift pullups to 805 so I can experiment with best PU resistor value (though the selected 10K works fine for 3.3V). Sent the design off to JLCPCB and received boards a week later.  Design works.  Level shifters work.  QWIIC connector works. Pico surface mount (castelations) works. I learned a few lessons from this and will feed that into the V2.0 design. One takeway - want to be able to supply >5V to the WS2812 strings so need to redo that part. May make a mini version with only I2C (QWIIC), WS2812 header and power connector (2.1mm DC jacks?). Sorry for lousy photos.
 ![boosters top](https://github.com/phil-barrett/PicoBooster/blob/main/Images/PXL_20260216_232458353.jpg)
 ![boosters top](https://github.com/phil-barrett/PicoBooster/blob/main/Images/PXL_20260216_232423549.jpg)
